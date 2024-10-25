@@ -1,4 +1,0 @@
-pyodbc
-datetime
-azure-identity
-azure-keyvault-secrets
