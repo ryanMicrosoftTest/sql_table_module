@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: sql_utils
+Version: 0.0.0
+Summary: A collection of utilities for working with SQL databases
+Author: RH
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >3.6
+Requires-Dist: pyodbc
+Requires-Dist: datetime
+Requires-Dist: azure-identity
+Requires-Dist: azure-keyvault-secrets
